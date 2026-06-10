@@ -1,0 +1,11 @@
+<svg width="320" height="96" viewBox="0 0 320 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Shine Dezign agency logo</title>
+  <desc id="desc">Premium Shine Dezign wordmark with monogram mark.</desc>
+  <rect width="320" height="96" rx="24" fill="#0F172A"/>
+  <path d="M39 63C47 73 66 75 77 64C88 53 82 38 67 35L57 33C51 32 49 27 52 23C56 18 67 17 75 25" stroke="#F5F3EA" stroke-width="7" stroke-linecap="round"/>
+  <path d="M37 27L77 69" stroke="#B08D57" stroke-width="3" stroke-linecap="round"/>
+  <path d="M99 25H127C145 25 157 34 157 48C157 62 145 71 127 71H99V25Z" fill="#F5F3EA"/>
+  <path d="M113 36V60H127C136 60 142 55 142 48C142 41 136 36 127 36H113Z" fill="#0F172A"/>
+  <text x="176" y="43" fill="#F5F3EA" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="2">SHINE</text>
+  <text x="176" y="65" fill="#B08D57" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="2">DEZIGN</text>
+</svg>
